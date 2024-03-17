@@ -2,6 +2,8 @@
 
 A new Flutter project with which One to One Chatting posiible with some features like Profile Update including change of name and Profile Picture, adding members to personal chat screen through email address, accessing read and seen time, downloading of photos to gallery and deletion of messages from both end including both text and pictures.
 
+For Live Demo download the .apk file from https://1drv.ms/u/s!Al7_AaoQhRN_kaoAIfhyVvf_d9BPVA?e=Tf3TLJ
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
